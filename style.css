@@ -1,0 +1,79 @@
+/**
+ * HW-Wireframe Assignment
+ **/
+
+ * {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body {
+    background-color: #ccc;
+  }
+  
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #666;
+    clear: both;
+  }
+  
+  section {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #666;
+    clear: both;
+
+  }
+     
+  #full {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #666;
+    background: #eee;
+    clear: both;
+    height: 300px;
+    float: left;
+    width: 60%;
+    
+    }
+  
+  #division {
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 60px;
+    color: #333;
+    background: #666;
+    width: 100%;
+  }
+
+  #division2 {
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    color: #333;
+    background: #666;
+    width: 100%;
+  }
+  aside {
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: #333;
+    background: #eee;
+    float: right;
+    width: 38%;
+    height: 300px;
+  
+  }
+  
+  footer {
+    clear: both;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #666;
+  }
+ 
